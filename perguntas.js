@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'futebol',
+    'qual o maior goleador do mundo',
+    'cristiano ronaldo'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'futebol',
+    'quantas copas o brasil tem',
+    '5 copas do mundo'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'basquete',
+    'qual o melhor jogador de todos os tempos do basquete?',
+    'michael jordan'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'tenis de mesa',
+    'qual o melhor jogador de tenis de mesa ',
+    Fan Zhendong''
 )
