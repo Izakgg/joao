@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'tenis de mesa',
     'qual o melhor jogador de tenis de mesa ',
-    Fan Zhendong''
+    Fan''
 )
